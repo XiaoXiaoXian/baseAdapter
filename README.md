@@ -188,3 +188,9 @@ mListView.setAdapter(new CommonAdapter<String>(this, R.layout.item_list, mDatas)
     `SectionAdapter`对其进行了参考。
 
 
+## 网络使用和介绍资料
+* [https://blog.csdn.net/lmj623565791/article/details/38902805/]
+作者介绍baseAdapter
+
+* [https://blog.csdn.net/lmj623565791/article/details/51118836/] 为RecyclerView打造通用Adapter 让RecyclerView更加好用
+
